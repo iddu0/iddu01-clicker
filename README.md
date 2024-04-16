@@ -1,5 +1,5 @@
 
-> Open this page at [https://saadit111.github.io/iddu01-clicker/](https://saadit111.github.io/iddu01-clicker/)
+> Open this page at [https://saadit111.github.io/iddu01-clicker/](https://saadit111.github.io/Misc/iddu01clicker.html)
 
 ## Use as Extension
 
