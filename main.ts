@@ -8,7 +8,7 @@ input.onButtonPressed(Button.B, function () {
     basic.showString("" + (clicks))
 })
 let clicks = 0
-basic.showString("IDDU01 CLICKER")
+basic.showString("i-clicker")
 basic.forever(function () {
     basic.showLeds(`
         # # # # #
