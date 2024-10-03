@@ -1,5 +1,5 @@
 
-> Open this page at [https://saadit111.github.io/iddu01-clicker/](https://saadit111.github.io/Misc/iddu01clicker.html)
+> Open this page at [https://iddu0.github.io/iddu01-clicker/](https://iddu0.github.io/iddu01-clicker/)
 
 ## Use as Extension
 
@@ -8,7 +8,7 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/saadit111/iddu01-clicker** and import
+* search for **https://github.com/iddu0/iddu01-clicker** and import
 
 ## Edit this project
 
@@ -16,7 +16,7 @@ To edit this repository in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/saadit111/iddu01-clicker** and click import
+* paste **https://github.com/iddu0/iddu01-clicker** and click import
 
 #### Metadata (used for search, rendering)
 
